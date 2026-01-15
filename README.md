@@ -10,9 +10,7 @@ Dataset Information
 
 The dataset contains historical hotel booking records, including booking status (cancelled or not), lead time, hotel type, customer details, and booking channels. The data was cleaned to remove inconsistencies and prepare it for analysis before building the dashboard.
 
-Dataset Source: Public hotel booking dataset (e.g., Kaggle)
-
-⚠️ If it’s Kaggle, say Kaggle. If not, replace this line. Don’t lie.
+Dataset Source: Public hotel booking dataset ( Kaggle)
 
 Objectives
 
@@ -56,7 +54,6 @@ City hotels experience more cancellations compared to resort hotels
 
 Online booking channels have higher cancellation rates than offline channels
 
-⚠️ If an insight is not visible in your dashboard, remove it.
 
 How to Use
 
